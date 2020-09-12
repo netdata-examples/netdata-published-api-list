@@ -11,10 +11,11 @@ Bitcoin, Ethereum ve piyasadaki tüm kripto paraların canlı fiyatlarıdır. 1 
 
 - http://www.netdata.com/project/abe00c1f/canli-kripto-para-fiyatlari-api
 
-## 2002 - 2018 Dolar USD/TRY Fiyatları Api & Dataset
-http://www.netdata.com/project/99c1e924/2002-2018-dolar-usdtry-fiyatlari
+## Türkiyedeki tüm nöbetçi eczaneler Api & Dataset
+Türkiyede tüm il veilçelerdeki nöbetçi eczaneler. Günlük yenilenir.
 
-- http://www.netdata.com/netsite/a632fe38/dolar-tarihi
+- http://www.netdata.com/project/0b01ba62/nobetci-eczaneler?lang=tr-TR
+
 
 ## TFF Süper Lig Puan Durumu Api
 Güncel TFF Süper Lig Puan Durumu Api. Haftasonları maç olduğunda değişen puan durumuna göre otomatik güncellenir. 
@@ -67,3 +68,8 @@ Türkiyedeki tüm okulların il ilçe adres ve okul ismi bilglerini içeren veri
 
 - http://www.netdata.com/project/c9478527/turkiyedeki-tum-okullarin-listesi
 - http://www.netdata.com/netsite/865c4328/turkiyedeki-tum-okullarin-listesi
+
+## 2002 - 2018 Dolar USD/TRY Fiyatları Api & Dataset
+http://www.netdata.com/project/99c1e924/2002-2018-dolar-usdtry-fiyatlari
+
+- http://www.netdata.com/netsite/a632fe38/dolar-tarihi
